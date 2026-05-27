@@ -1,16 +1,2 @@
-# smart_tutor
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Smart_Tutor
+Smart Tutor App  Smart Tutor is a Flutter-based mobile application that connects Guardians and Tutors for private tuition.  🎯 Purpose  The app allows:  Guardians to create tuition requests Tutors to build profiles and apply Matching between guardians and tutors
